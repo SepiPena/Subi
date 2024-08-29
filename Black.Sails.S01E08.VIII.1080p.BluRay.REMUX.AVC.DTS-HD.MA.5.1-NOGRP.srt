@@ -1,0 +1,2628 @@
+1
+00:00:17,960 --> 00:00:19,962
+TAPAHTUNUT AIEMMIN:
+
+2
+00:00:20,088 --> 00:00:22,113
+On paikka, ei kaukanakaan
+täältä, jossa teitä -
+
+3
+00:00:22,196 --> 00:00:24,240
+pelättäisiin ja
+kunnioitettaisiin jälleen.
+
+4
+00:00:24,323 --> 00:00:28,871
+Jos tapamme Hamundin, hänen kahdeksasta
+liittolaisestaan tulee uhka meille.
+
+5
+00:00:28,954 --> 00:00:32,041
+He katoavat tänä yönä.
+
+6
+00:00:32,357 --> 00:00:35,749
+Kun vertaan sinua ja Flintiä, en tiedä
+kumpaa on syytä pelätä enemmän.
+
+7
+00:00:35,832 --> 00:00:36,833
+Lähde kanssani.
+
+8
+00:00:36,916 --> 00:00:39,626
+Olen koko ikäni yrittänyt
+rakentaa jotain tänne.
+
+9
+00:00:39,709 --> 00:00:44,130
+Luovutan aikataulusta saamani
+maksun, jos saan osani saaliista.
+
+10
+00:00:44,303 --> 00:00:47,890
+Kun on aika paljastaa viimeinen
+palanen, olen silloin rinnallasi.
+
+11
+00:00:47,973 --> 00:00:51,227
+Singleton ei varastanut
+sivua, vaan hän.
+
+12
+00:00:51,311 --> 00:00:54,252
+- Valehtelet heille.
+- Ellei kukaan tiedä, kaikki voittavat.
+
+13
+00:00:54,335 --> 00:00:57,631
+Uskon tähän paikkaan. Jos on joku, joka
+voi tehdä tarpeellisen tehdäkseen siitä -
+
+14
+00:00:57,714 --> 00:01:01,810
+- vielä paremman, se olet sinä.
+- Kun saamme rahat, Flint kuolee.
+
+15
+00:01:01,961 --> 00:01:05,381
+- Ei vastalauseita.
+- Ei minun puoleltani.
+
+16
+00:03:14,169 --> 00:03:20,134
+- Herra Rackham, sananen.
+- Odotinkin sinua, istu alas.
+
+17
+00:03:20,586 --> 00:03:22,843
+Haluatko kertoa
+mielipiteesi esityksestä?
+
+18
+00:03:22,926 --> 00:03:26,890
+Teema on "illat Pariisissa". Saatte
+kolme arvausta, kuka tämän suunnitteli.
+
+19
+00:03:26,973 --> 00:03:29,624
+Herra Rackham, tapasin
+juuri kirstunvartijan.
+
+20
+00:03:29,707 --> 00:03:34,169
+En saa kuulemma enää osuuttani
+tuotoista. Oletteko ohjeistaneet niin?
+
+21
+00:03:34,318 --> 00:03:39,532
+Olen. Tein hieman laskelmia, paljonko
+olette vieneet aloitettuamme yhteistyömme.
+
+22
+00:03:39,725 --> 00:03:42,980
+Vaikutti reilulta leikata
+osuuttanne, tasatakseni tilejä.
+
+23
+00:03:43,063 --> 00:03:48,235
+Ymmärtääkseni uusi ystävänne on
+auttanut panemaan tytöt ruotuun, -
+
+24
+00:03:48,464 --> 00:03:52,552
+saanut heidät ilmoittamaan
+tulonsa rehellisesti.
+
+25
+00:03:52,771 --> 00:03:58,110
+Se on varmasti mukavaa,
+mutta tehdään yksi asia selväksi.
+
+26
+00:03:58,250 --> 00:04:01,670
+En ole yksi tytöistä.
+Haluan osuuteni, -
+
+27
+00:04:01,833 --> 00:04:05,795
+muuten kerron kaikille, mitä
+herra Noonanille tapahtui.
+
+28
+00:04:06,885 --> 00:04:10,722
+- Tekisittekö sen?
+- Aivan varmasti.
+
+29
+00:04:12,029 --> 00:04:15,740
+Tuo kuulostaa törkeältä
+kapinoinnilta, rouva Mapleton.
+
+30
+00:04:15,824 --> 00:04:21,163
+Huomioiden sen ja huijauksenne,
+joudun lopettamaan työsuhteenne.
+
+31
+00:04:21,588 --> 00:04:23,756
+- Mitä?
+- Olette erotettu.
+
+32
+00:04:23,976 --> 00:04:27,730
+- Kiitos palveluksistanne.
+- Oletteko menettäneet järkenne?
+
+33
+00:04:27,863 --> 00:04:29,141
+En tietääkseni.
+
+34
+00:04:29,224 --> 00:04:34,377
+Kerroin olevani valmis
+kertomaan kauppiaille, -
+
+35
+00:04:34,461 --> 00:04:37,480
+että murhasitte tienne
+tämän paikan omistajiksi.
+
+36
+00:04:37,564 --> 00:04:40,540
+He liittouttuvat
+hirttääkseen teidät.
+
+37
+00:04:40,623 --> 00:04:42,360
+Ketkä heistä?
+
+38
+00:04:44,406 --> 00:04:47,618
+Ketkä kauppiaat haluavat
+herra Rackhamin hirteen?
+
+39
+00:04:47,955 --> 00:04:53,836
+Herra Connors, vaunuseppäkö?
+Vai herra Peterson, teurastaja.
+
+40
+00:04:56,063 --> 00:04:58,941
+Vaiko herra Rusch,
+jalokiviseppä?
+
+41
+00:04:59,548 --> 00:05:02,260
+He ovat kaikki saaneet
+tuntuvia alennuksia hiljattain.
+
+42
+00:05:02,343 --> 00:05:05,281
+Hinnat ovat nyt huokeita,
+kun tilinpito on järjestyksessä.
+
+43
+00:05:05,364 --> 00:05:08,535
+Mietin vain, kun he ovat
+tykästyneet uuteen johtoon, -
+
+44
+00:05:08,618 --> 00:05:12,955
+niin ketä heistä kiinnostaa
+herra Noonanin kohtalo?
+
+45
+00:05:13,191 --> 00:05:15,873
+Unohdit ainoan nimen,
+jolla on merkitystä.
+
+46
+00:05:15,956 --> 00:05:18,209
+Neiti vastapäätä katua.
+Kun hän saa tietää...
+
+47
+00:05:18,292 --> 00:05:20,830
+Neiti Guthrie tietää.
+Tämä sopii hänelle.
+
+48
+00:05:20,913 --> 00:05:25,126
+Voitte toki kertoa hänelle
+uudestaan. Ei siitä haittaakaan ole.
+
+49
+00:05:27,989 --> 00:05:33,328
+- Kadutte tätä, herra.
+- En varmasti. Hyvästi.
+
+50
+00:05:38,761 --> 00:05:41,393
+Älä tuomitse minua,
+mutta tuo oli hauskaa.
+
+51
+00:05:41,476 --> 00:05:43,846
+Oletko varma, ettei
+hän yritä kostaa?
+
+52
+00:05:43,929 --> 00:05:45,881
+Se on mahdollista.
+
+53
+00:05:45,964 --> 00:05:48,769
+Tällä hetkellä olen
+onnellinen päästessäni eroon -
+
+54
+00:05:48,852 --> 00:05:52,038
+hänen aiheuttamistaan
+tämänhetkisistä ongelmista.
+
+55
+00:05:52,121 --> 00:05:54,191
+Malja tuottoisalle yritykselle.
+
+56
+00:05:54,526 --> 00:05:58,110
+Sekä kumppanille, jota on
+paljon miellyttävämpi katsella.
+
+57
+00:06:25,746 --> 00:06:27,589
+Mitä minä tällä teen?
+
+58
+00:06:27,673 --> 00:06:31,195
+Jos Randall jää,
+kainalosauvasta on haittaa.
+
+59
+00:06:31,438 --> 00:06:34,382
+Hän saa luvan käyttää
+tuota, piti siitä tai ei.
+
+60
+00:06:34,740 --> 00:06:36,783
+Älä viitsi, Randall.
+
+61
+00:06:36,867 --> 00:06:39,853
+Tohtori Howell teki
+tämän varta vasten sinulle.
+
+62
+00:06:39,936 --> 00:06:41,638
+Se auttaa sinua
+liikkumaan paremmin.
+
+63
+00:06:41,721 --> 00:06:45,934
+Ehkäpä voit käydä
+huussissakin välillä ilman apuani.
+
+64
+00:06:47,992 --> 00:06:50,035
+Ihan rauhassa.
+
+65
+00:06:54,499 --> 00:06:58,169
+Olet vastuussa hänestä. 
+Keksi jotain.
+
+66
+00:07:03,497 --> 00:07:06,940
+"Voi, herra Silver. Miten voin
+ikinä kiittää teitä tarpeeksi?
+
+67
+00:07:07,023 --> 00:07:10,276
+Ensin pelastitte minut
+murskaantumasta laivan alle.
+
+68
+00:07:10,531 --> 00:07:14,653
+Sitten turvasitte asemani miehistössä
+historiallisen saaliin kynnyksellä.
+
+69
+00:07:14,736 --> 00:07:16,603
+Ihan kuin se ei olisi riittänyt, -
+
+70
+00:07:16,686 --> 00:07:20,575
+mutta yritätte löytää jotain
+mukavaa jalantynkääni.
+
+71
+00:07:20,796 --> 00:07:24,967
+Kiitän teitä sydämeni pohjasta."
+
+72
+00:07:27,818 --> 00:07:29,903
+Eipä kestä.
+
+73
+00:07:40,287 --> 00:07:44,333
+Rangerista laskettiin vene.
+Kapteeni Gates tulee tänne.
+
+74
+00:07:44,990 --> 00:07:46,235
+Kaheli paskiainen.
+
+75
+00:07:46,318 --> 00:07:50,626
+Mikä voi olla niin tärkeää, että
+hän tulee tänne tässä kelissä?
+
+76
+00:08:30,547 --> 00:08:33,092
+Rantaudumme aamulla.
+
+77
+00:08:35,278 --> 00:08:38,734
+Haluan aikataulun viimeisen
+palasen, jos suinkin sopii.
+
+78
+00:08:46,725 --> 00:08:50,395
+- Mikä tuo on?
+- Oma tiedusteluni.
+
+79
+00:08:50,638 --> 00:08:53,684
+Päivämatkan päässä on
+tusina lahtia ja poukamia, -
+
+80
+00:08:53,767 --> 00:08:56,896
+jotka ovat järkeviä
+sijainteja Urcalle pysähtyä.
+
+81
+00:08:57,050 --> 00:09:02,056
+Jos kirjoittamasi kurssi johtaa johonkin
+niistä, tietosi voivat pitää paikkansa.
+
+82
+00:09:02,139 --> 00:09:04,225
+Entä jos ei johda?
+
+83
+00:09:39,161 --> 00:09:43,499
+Kurssi johtaa Division Baylle.
+
+84
+00:09:46,182 --> 00:09:52,146
+Itärannalla on karikkoja, mutta jos
+menemme tuulenpuolta, saamme hyvät asemat.
+
+85
+00:09:54,196 --> 00:09:55,956
+Vie tämä De Grootille.
+
+86
+00:09:56,039 --> 00:10:00,119
+Käske asettaa kurssimme sen
+mukaisesti ja valmistautua aamuun.
+
+87
+00:10:03,022 --> 00:10:05,450
+Oliko vielä jotain?
+
+88
+00:10:06,012 --> 00:10:09,325
+Nyt kun olen täyttänyt
+osuuteni sopimuksesta, -
+
+89
+00:10:09,409 --> 00:10:12,079
+pohdin vain tilannettamme.
+
+90
+00:10:12,628 --> 00:10:14,713
+Jatka vain pohtimista.
+
+91
+00:10:28,089 --> 00:10:32,009
+- Minun on parasta palata.
+- Ei uhmata kohtaloa.
+
+92
+00:10:35,539 --> 00:10:38,876
+Talbot Rhodes.
+Yksityisestä varastosta.
+
+93
+00:10:39,505 --> 00:10:41,771
+Olen odottanut
+sopivaa tilaisuutta.
+
+94
+00:10:45,186 --> 00:10:49,984
+Tilinteon hetkeni on huomenna. Meillä on
+varaa joko erittäin moneen pulloon tai...
+
+95
+00:10:50,067 --> 00:10:52,534
+Olemme liian kuolleita
+välittääksemme.
+
+96
+00:11:31,806 --> 00:11:34,268
+Kapteeni pyysi
+välittämään nämä sinulle.
+
+97
+00:11:34,351 --> 00:11:36,353
+Uusi kurssi.
+
+98
+00:11:39,632 --> 00:11:42,450
+Kapteeniko hyväksyi Urcan
+reitin viimeisen osan päteväksi?
+
+99
+00:11:42,533 --> 00:11:44,195
+Asia, jota sinun
+ei tulisi epäillä.
+
+100
+00:11:44,278 --> 00:11:46,898
+Varmuus ei ole sana,
+jota viljelen kevyesti.
+
+101
+00:11:46,981 --> 00:11:50,318
+Olen melko varma,
+että tämä tieto on oikein.
+
+102
+00:11:58,487 --> 00:12:00,507
+Tuolla miehellä on outo
+tapa käsitellä näkymää -
+
+103
+00:12:00,590 --> 00:12:03,367
+lähestyvästä
+järjettömästä rikkaudesta.
+
+104
+00:12:15,842 --> 00:12:18,804
+- Mitä teet täällä?
+- Kapteeni Hornigold pyysi, -
+
+105
+00:12:18,887 --> 00:12:22,719
+että olisin läsnä kapteeni Lawrencen
+viimeisissä valmisteluissa ennen lähtöä.
+
+106
+00:12:22,802 --> 00:12:25,305
+He ovat lopettelemassa
+yläkerrassa.
+
+107
+00:12:28,893 --> 00:12:30,623
+Olen kunnossa.
+
+108
+00:12:30,706 --> 00:12:34,292
+Usko tai älä, mutta tämä
+paikka ei romahtanut häipyessäsi.
+
+109
+00:12:34,375 --> 00:12:37,767
+Luuletko tosiaan, että olen
+huolissani tästä paikasta?
+
+110
+00:12:41,497 --> 00:12:46,294
+On karmea keli. En voi edes
+kuvitella, millaista on pohjoisemmassa.
+
+111
+00:12:47,020 --> 00:12:50,398
+Olet vastustanut Urcan
+metsästämistä alusta alkaen.
+
+112
+00:12:50,559 --> 00:12:53,270
+Ehkä Jumala on puolellasi.
+
+113
+00:12:55,750 --> 00:12:59,086
+Mietin vain kaikkia hankaluuksia,
+joita se vitun aikataulu on aiheuttanut.
+
+114
+00:12:59,169 --> 00:13:02,756
+Mitä se aiheutti Maxille ja
+minulle sekä meille kahdelle.
+
+115
+00:13:02,975 --> 00:13:05,164
+Ajatus siitä, että kaikki
+saattoi olla turhaa...
+
+116
+00:13:05,247 --> 00:13:08,822
+Ehkä hankaluuksien
+oli määrä tapahtua.
+
+117
+00:13:09,622 --> 00:13:13,209
+- Oli aikataulua tai ei.
+- Ehkäpä.
+
+118
+00:13:13,475 --> 00:13:18,647
+Huomenna tyhjästä
+kehittelemäsi asia käy toteen.
+
+119
+00:13:18,754 --> 00:13:23,592
+Asia, joka antaa tälle paikalle
+mahdollisuuden löytää pienen palan rauhaa.
+
+120
+00:13:24,349 --> 00:13:26,351
+Se ei ole turhaa.
+
+121
+00:13:33,440 --> 00:13:36,209
+- Oliko se Henderson?
+- Ei ollut Henderson.
+
+122
+00:13:36,292 --> 00:13:39,041
+Se oli jokin Hendersonin
+tapainen. Harrison tai Harvey.
+
+123
+00:13:39,124 --> 00:13:43,194
+En tiedä ketä helvettiä oikein tarkoitat.
+Hän, joka tuon pullon nyysi, oli Cregg.
+
+124
+00:13:43,277 --> 00:13:48,991
+- Cregg! Niin olikin.
+- Herra Cregg, timpurin apumies.
+
+125
+00:13:49,158 --> 00:13:54,079
+Hän vainusi viinat saalisalukselta
+kuin jokin vitun vihikoira.
+
+126
+00:13:55,409 --> 00:14:00,122
+Muistan yllättäneeni hänet kerran,
+kun hän penkoi kätköä saalisaluksella.
+
+127
+00:14:02,489 --> 00:14:05,076
+Hän löysi viinapullon
+jalkalistan takaa.
+
+128
+00:14:05,159 --> 00:14:08,948
+Hän oli vakuuttunut, että aluksen kapteeni
+on pitänyt parhaat viinansa piilossa.
+
+129
+00:14:09,031 --> 00:14:14,870
+Hän korkkasi pullon ja otti
+ison ryypyn kaikkien nähden.
+
+130
+00:14:15,074 --> 00:14:17,744
+- Ja se oli kusta.
+- Se oli kusta.
+
+131
+00:14:25,906 --> 00:14:30,286
+Toin hänet mukanani. Palvelimme
+yhdessä Averyllä lapsina.
+
+132
+00:14:30,688 --> 00:14:32,899
+Hän oli ensimmäinen
+tupakaverini.
+
+133
+00:14:33,138 --> 00:14:36,266
+Vuosia hän jauhoi siitä, -
+
+134
+00:14:36,413 --> 00:14:40,584
+kuinka hänellä oli
+valtava kätkö piilotettuna -
+
+135
+00:14:40,691 --> 00:14:45,745
+ja että minun pitäisi elää kauemmin kuin
+hän, niin jonain päivänä olisin rikas mies.
+
+136
+00:14:45,828 --> 00:14:49,081
+Kuten tiedät, menetimme
+hänet Pembrokessa.
+
+137
+00:14:51,370 --> 00:14:54,378
+Joten avasin hänen
+kaappinsa ja mitä löysinkään?
+
+138
+00:14:54,898 --> 00:14:57,901
+Kaksitoista pesoa,
+rikkinäisen taskukellon -
+
+139
+00:14:58,002 --> 00:15:02,222
+ja kirjeen, jossa oli ohjeet sen
+toimittamiseksi siskolleen New Yorkiin.
+
+140
+00:15:02,305 --> 00:15:07,101
+Herra Cregg oli
+valehteleva paskiainen.
+
+141
+00:15:08,632 --> 00:15:14,179
+Tarjosin pojille kierroksen pesoilla,
+vaihdoin taskukellon panoon -
+
+142
+00:15:14,272 --> 00:15:16,947
+ja sinä talvena yritin
+kahden viikon ajan -
+
+143
+00:15:17,030 --> 00:15:20,742
+toimittaa sitä vitun
+kirjettä hänen siskolleen.
+
+144
+00:15:21,336 --> 00:15:24,881
+Etsin joka paikasta. 
+En koskaan löytänyt häntä.
+
+145
+00:15:25,996 --> 00:15:28,822
+Kotimatkalla odotin, kunnes
+olimme avoimilla vesillä, -
+
+146
+00:15:28,905 --> 00:15:31,575
+eikä maata ollut näkyvissä -
+
+147
+00:15:31,659 --> 00:15:33,661
+ja pudotin sen laidan yli.
+
+148
+00:15:35,069 --> 00:15:37,071
+Palautettuna merelle.
+
+149
+00:15:43,397 --> 00:15:47,568
+Tässä elämässä ei ole perintöjä.
+
+150
+00:15:49,154 --> 00:15:52,741
+Ei muistomerkkejä. Ei historiaa.
+
+151
+00:15:55,165 --> 00:15:57,167
+On vain vesi.
+
+152
+00:15:59,727 --> 00:16:04,690
+Se maksaa meille ja sitten
+se ottaa meidät takaisin.
+
+153
+00:16:05,652 --> 00:16:07,654
+Nielee meidät kokonaisina.
+
+154
+00:16:10,139 --> 00:16:13,225
+Kuin emme olisi
+koskaan olleetkaan täällä.
+
+155
+00:16:22,377 --> 00:16:24,379
+Minun on parasta palata.
+
+156
+00:16:56,115 --> 00:16:58,678
+Vapautit Mapletonin
+kertomatta minulle!
+
+157
+00:16:58,761 --> 00:17:01,260
+En tiennyt sinun olevan
+hänen asiamiehensä.
+
+158
+00:17:01,343 --> 00:17:03,430
+Hän kailottaa koko
+vitun saarelle Noonanista.
+
+159
+00:17:03,513 --> 00:17:04,587
+Ketä kiinnostaa?
+
+160
+00:17:04,670 --> 00:17:07,036
+Ainoat jotka mahdollisesti
+aiheuttavat harmeja, -
+
+161
+00:17:07,119 --> 00:17:09,487
+ovat alakerrassa kädet
+täynnä ilmaisia huoria.
+
+162
+00:17:09,570 --> 00:17:12,326
+Mikä pahempaa, neuvottelit
+siitä huoran kanssa.
+
+163
+00:17:12,409 --> 00:17:15,192
+- Hetkonen.
+- Luuletko voivasi luottaa häneen?
+
+164
+00:17:15,275 --> 00:17:18,367
+- Maxistako tässä on kyse?
+- Etkö nussinutkin häntä?
+
+165
+00:17:18,450 --> 00:17:22,163
+Et ole koskaan tyytyväinen. Kun hän
+on leirissä miesten kanssa, sanot vain:
+
+166
+00:17:22,246 --> 00:17:24,239
+"Jack, tapetaan kaikki
+ja vapautetaan hänet. -
+
+167
+00:17:24,322 --> 00:17:26,842
+Toivottavasti ei haittaa,
+päätin puolestasi."
+
+168
+00:17:26,925 --> 00:17:30,321
+Nyt hän on vapaana ja tienaa pienen
+omaisuuden ja olet vihainen siitäkin.
+
+169
+00:17:30,404 --> 00:17:33,532
+Voisitko jo vittu päättää?
+
+170
+00:17:33,684 --> 00:17:37,354
+- Haista vittu, Jack.
+- Tiedän, haistatellaan vaan.
+
+171
+00:19:09,523 --> 00:19:11,525
+Kuunnelkaa!
+
+172
+00:19:15,301 --> 00:19:20,024
+Kun saavutamme harjanteen ja näemme Urcan
+ankkuroituneena, aloitamme loppukirin.
+
+173
+00:19:20,107 --> 00:19:21,108
+Tartu ruoriin.
+
+174
+00:19:21,191 --> 00:19:23,911
+Espanjan lippu saattaa
+hämätä heitä pari sataa metriä, -
+
+175
+00:19:23,994 --> 00:19:27,087
+ennen kuin kapteeni tunnistaa
+meidät ja he avaavat tulen.
+
+176
+00:19:27,170 --> 00:19:31,299
+Otamme heidät kiinni nopeasti,
+moukaroimme heitä kanuunoillamme -
+
+177
+00:19:31,413 --> 00:19:33,771
+ja sitten siirrymme
+taistelemaan heidän kannelleen.
+
+178
+00:19:33,854 --> 00:19:38,025
+Siitä tulee elämiemme
+taistelu, olen varma siitä.
+
+179
+00:19:39,637 --> 00:19:43,369
+Mutta toisella puolen,
+paratiisi odottaa.
+
+180
+00:19:46,663 --> 00:19:49,416
+Näemme siellä. De Groot?
+
+181
+00:19:49,680 --> 00:19:51,668
+Täysmiehitys, kiitos.
+
+182
+00:19:53,250 --> 00:19:54,722
+Anna merkki Rangerille.
+
+183
+00:19:54,805 --> 00:19:57,391
+Täysin purjein,
+viimeinen lähestyminen.
+
+184
+00:20:34,104 --> 00:20:35,501
+Tarkista sijaintimme.
+
+185
+00:20:35,584 --> 00:20:37,059
+Tämä on oikea kurssi.
+- Tarkista uudelleen.
+
+186
+00:20:37,142 --> 00:20:40,301
+Kapteeni, tämä on
+haluamanne sijainti.
+
+187
+00:21:09,180 --> 00:21:12,725
+Tässä oikea rahtiluettelosi.
+Tässä väärennös.
+
+188
+00:21:12,888 --> 00:21:16,267
+Ja kaikista tärkein, lahjuksesi.
+Lykkyä tykö, kapteeni.
+
+189
+00:21:16,350 --> 00:21:19,491
+Ehkä meidän tulisi käydä
+yksityiskohdat vielä kertaalleen läpi.
+
+190
+00:21:19,574 --> 00:21:23,036
+Satamamestarin nimi on
+Singer. Esimiehen nimi on Smith.
+
+191
+00:21:23,212 --> 00:21:26,340
+Varastojohtajan nimi on
+Clay ja tullimiehen Kent.
+
+192
+00:21:26,588 --> 00:21:30,225
+Jos ette nyt anna minun astua
+laivaani ja jättää tätä paikkaa, -
+
+193
+00:21:30,308 --> 00:21:34,042
+kauppatavarani ovat pilalla,
+ennen kuin saavun määränpäähäni.
+
+194
+00:21:34,125 --> 00:21:36,544
+- Hyvästi.
+- Lykkyä tykö.
+
+195
+00:21:41,868 --> 00:21:45,482
+Täytyy myöntää, sanoit, että
+rakennat kaiken uudestaan ilman isääsi.
+
+196
+00:21:45,565 --> 00:21:47,901
+Helvetti vieköön,
+teit enemmänkin.
+
+197
+00:21:47,985 --> 00:21:50,488
+On vielä yksi asia hoidettavana.
+
+198
+00:21:52,301 --> 00:21:54,636
+Isäni poistaminen lopullisesti.
+
+199
+00:21:54,895 --> 00:21:57,602
+- Anteeksi kuinka?
+- Tiedän, että hän on Underhillissä.
+
+200
+00:21:57,685 --> 00:22:01,524
+Jollet usko hänen juonittelevan
+meitä vastaan, huijaat itseäsi.
+
+201
+00:22:01,607 --> 00:22:03,315
+Olet todellakin hämmästyttävä.
+
+202
+00:22:03,398 --> 00:22:05,965
+Sillä hetkellä, kun maailma
+polvistuu edessäsi, -
+
+203
+00:22:06,048 --> 00:22:08,802
+etsit jonkun uuden henkilön,
+jota vastaan taistella.
+
+204
+00:22:08,885 --> 00:22:12,388
+- Kapteeni, hetki.
+- Luoja.
+
+205
+00:22:14,015 --> 00:22:16,174
+En voi uskoa, että jätit
+minun sen vanhuksen takia.
+
+206
+00:22:16,257 --> 00:22:18,022
+Hornigold on oikeassa.
+
+207
+00:22:21,029 --> 00:22:22,581
+Mitä helvettiä?
+
+208
+00:22:24,283 --> 00:22:25,992
+Mistä tuo tuli?
+
+209
+00:22:31,848 --> 00:22:34,197
+Herran jumala, miksi miehesi
+ampuvat omia aluksiaan?
+
+210
+00:22:34,280 --> 00:22:36,614
+Mieheni eivät ole
+ne, jotka ampuvat.
+
+211
+00:22:39,219 --> 00:22:42,611
+Meidän täytyy saada sinut
+pois rannalta, välittömästi.
+
+212
+00:22:50,604 --> 00:22:52,773
+Ampuuko joku täällä kanuunoilla?
+
+213
+00:22:53,061 --> 00:22:57,232
+- Mitä helvettiä on meneillään?
+- Joku on vallannut linnoituksen.
+
+214
+00:23:09,637 --> 00:23:12,848
+Kapteeni,
+inventaarion jälkeen, -
+
+215
+00:23:12,955 --> 00:23:14,739
+miehistö suostui suunnitelmaasi.
+
+216
+00:23:14,822 --> 00:23:17,294
+Kun löydämme
+sopivan paikan laivalle, -
+
+217
+00:23:17,377 --> 00:23:20,880
+sinulla on kaksi päivää
+aikaa paikantaa Urca.
+
+218
+00:23:21,822 --> 00:23:25,982
+Heidän mielialansa vuoksi, on
+onni, että saimme niin paljon aikaa.
+
+219
+00:23:26,186 --> 00:23:28,439
+Tehkää se sitten.
+
+220
+00:23:32,120 --> 00:23:34,956
+- Tehdä mitä?
+- Herra De Groot.
+
+221
+00:23:35,285 --> 00:23:37,747
+Hän on tehnyt päätöksensä.
+Kun pääsemme maalle, -
+
+222
+00:23:37,830 --> 00:23:40,564
+hän haluaa välittömästi
+Flintin tuomiolle.
+
+223
+00:23:40,657 --> 00:23:43,410
+Hän on katkera siitä, ettemme
+kuunnelleet hänen puheitaan kokista.
+
+224
+00:23:43,493 --> 00:23:46,812
+Hän sanoo, ettei Urcaa ole olemassa
+sekä oikeutta on viivästetty tarpeeksi.
+
+225
+00:23:46,895 --> 00:23:49,444
+Ei onnistu, joten
+puhutaan realistisesti.
+
+226
+00:23:49,527 --> 00:23:51,997
+Hän sanoikin,
+että sanoisit noin.
+
+227
+00:23:52,080 --> 00:23:54,324
+Kaiken puheen jälkeen,
+suojelet vieläkin Flintiä.
+
+228
+00:23:54,407 --> 00:23:56,492
+Suojelen meitä kaikkia.
+
+229
+00:23:56,975 --> 00:23:59,751
+Miehet ovat jyrkänteen reunalla
+ja hän vain yllyttää heitä lisää -
+
+230
+00:23:59,834 --> 00:24:01,921
+kertomalla epärehellisestä
+kapteenista, -
+
+231
+00:24:02,004 --> 00:24:05,076
+itse seisoen autiolla
+rannalla, puhuen vaaleista.
+
+232
+00:24:05,369 --> 00:24:08,354
+Miehistä puoli tusinaa, ovat
+halukkaita vaihtamaan kapteenia.
+
+233
+00:24:08,437 --> 00:24:12,941
+Puolet jakautuvat. Taistelu
+alkaa, ennen kuin aurinko laskee.
+
+234
+00:24:15,192 --> 00:24:17,896
+Näemme, kuinka Flint
+maksaa rikoksistaan, -
+
+235
+00:24:17,979 --> 00:24:20,065
+mutta teemme sen kotonamme -
+
+236
+00:24:20,149 --> 00:24:22,819
+ja teemme sen kuin
+sivistyneet ihmiset.
+
+237
+00:24:23,374 --> 00:24:25,877
+Näin vältämme kurimuksen.
+
+238
+00:24:27,311 --> 00:24:30,211
+Tiedän, että vietit yön
+juoden hänen kanssaan.
+
+239
+00:24:30,419 --> 00:24:32,629
+Kuinka voin uskoa sanomasi?
+
+240
+00:24:35,630 --> 00:24:37,715
+Sinun ei tarvitse.
+
+241
+00:24:44,538 --> 00:24:46,957
+Kelpaako?
+
+242
+00:24:52,797 --> 00:24:55,884
+Purjeita etelässä päin!
+
+243
+00:24:56,304 --> 00:24:58,431
+Onko se Urca?
+
+244
+00:25:03,230 --> 00:25:06,901
+Kapteeni, onko se Urca?
+
+245
+00:25:09,411 --> 00:25:12,706
+Se on sotalaiva!
+
+246
+00:25:13,107 --> 00:25:14,531
+Espanjan liput!
+
+247
+00:25:14,614 --> 00:25:16,486
+Puolessa tunnissa ovat
+aivan kannoillamme.
+
+248
+00:25:16,569 --> 00:25:18,524
+Viekää käsky Rangerille.
+
+249
+00:25:18,607 --> 00:25:20,773
+Käskekää heidän
+nostaa musta lippu -
+
+250
+00:25:20,856 --> 00:25:23,323
+ja ampua kaksi
+laukausta keulamme yli.
+
+251
+00:25:24,825 --> 00:25:27,728
+Laita keula-ankkuri valmiiksi
+ja tiputa se välittömästi.
+
+252
+00:25:27,811 --> 00:25:30,647
+Ankkuriko? Tarkoitatko,
+että taistelemme?
+
+253
+00:25:30,731 --> 00:25:32,858
+Teillä on käskynne!
+
+254
+00:25:38,395 --> 00:25:41,227
+- Kapteeni, liity seuraani.
+- Ei ole aikaa.
+
+255
+00:25:41,310 --> 00:25:42,990
+- Järjestä sitä sitten.
+
+256
+00:25:48,930 --> 00:25:51,552
+Jos hän aikoo taistella tuota
+vastaan, olemme kuolleita. - Tiedän.
+
+257
+00:25:51,635 --> 00:25:54,972
+- Tiedän että tiedät,
+mutta tietääkö Gates?
+
+258
+00:26:01,859 --> 00:26:05,779
+- En voi antaa sinun tehdä tätä.
+- Sotalaiva luulee, -
+
+259
+00:26:05,863 --> 00:26:08,726
+että olemme espanjalaisia kauppiaita,
+merirosvojen hyökkäyksen kohteena.
+
+260
+00:26:08,809 --> 00:26:11,658
+Käskemme Rangerin paeta.
+Espanjalaiset jahtaavat heitä.
+
+261
+00:26:11,741 --> 00:26:14,151
+Kun he tajuavat
+virheensä, he ovat ansassa.
+
+262
+00:26:14,234 --> 00:26:15,678
+Heillä on yli sata tykkiä.
+
+263
+00:26:15,761 --> 00:26:18,161
+Kun teemme tämän oikein,
+he eivät pääse käyttämään niitä.
+
+264
+00:26:18,244 --> 00:26:21,081
+Menemme heidän keulansa
+eteen, Ranger perän taakse.
+
+265
+00:26:21,164 --> 00:26:24,682
+Vähän onnea ja murskaamme heidät,
+ennen kuin he saavat edes ammuttua.
+
+266
+00:26:24,765 --> 00:26:29,895
+- Mitä saavutat sillä?
+- Urca on täällä. Etkö huomaa?
+
+267
+00:26:30,017 --> 00:26:32,109
+Huomaan vain tyhjän lahden, -
+
+268
+00:26:32,193 --> 00:26:35,234
+vartioston sotalaivan sekä kapteenin
+joka on menettänyt todellisuudentajunsa.
+
+269
+00:26:35,317 --> 00:26:37,837
+Vartiostonko? Luuletko, että
+tuo laiva on täällä partioimassa?
+
+270
+00:26:37,920 --> 00:26:40,352
+Sekö vain sattui olemaan
+täällä, vieläpä tähän aikaan?
+
+271
+00:26:40,435 --> 00:26:43,064
+Tuo laiva on saattaja.
+Se on ainoa selitys.
+
+272
+00:26:43,147 --> 00:26:45,818
+Urcalla ei ole saattajia.
+
+273
+00:26:45,902 --> 00:26:48,571
+Sitäkö ajat takaa
+tällä hyökkäyksellä?
+
+274
+00:26:48,655 --> 00:26:52,453
+He ovat muuttaneet suunnitelmiaan.
+He löysivät aluksen, jonka uhrata.
+
+275
+00:26:52,536 --> 00:26:54,579
+Otan Rangerin ja lähden.
+
+276
+00:26:54,898 --> 00:26:56,984
+Mitä juuri sanoit?
+
+277
+00:26:58,070 --> 00:27:00,322
+Nostan ankkurin ja pakenen.
+
+278
+00:27:00,484 --> 00:27:03,280
+Jos pysyn edellä yöhön asti,
+on pieni mahdollisuus paeta.
+
+279
+00:27:03,363 --> 00:27:04,409
+Ilman Rangeria, -
+
+280
+00:27:04,492 --> 00:27:08,168
+minulla ei ole mahdollisuuksia
+pärjätä tuota alusta vastaan.
+
+281
+00:27:08,251 --> 00:27:10,378
+Tiedän.
+
+282
+00:27:15,296 --> 00:27:18,465
+Eli haastat tietoisesti
+valtaani täällä?
+
+283
+00:27:18,652 --> 00:27:21,447
+Tietoisesti rikot
+velvollisuuttasi.
+
+284
+00:27:22,816 --> 00:27:25,294
+Velvollisuuttaniko?
+
+285
+00:27:25,377 --> 00:27:28,735
+Velvollisuuteni on
+heitä kohtaan, ei sinua.
+
+286
+00:27:28,862 --> 00:27:32,875
+Vaikka olenkin rikkonut sitä useammin
+kuin voin muistaa sinun puolustukseksi.
+
+287
+00:27:32,958 --> 00:27:36,390
+Auttamalla sinua pettämään
+hyviä miehiä, jotka luottivat minuun, -
+
+288
+00:27:36,473 --> 00:27:39,801
+koska olin vakuuttunut,
+että se olisi hyödyllisempää.
+
+289
+00:27:39,996 --> 00:27:44,042
+Ei täällä. Ei tässä.
+Tämä on vitun hulluutta!
+
+290
+00:27:44,156 --> 00:27:47,451
+Herra Gates, jos kävelet tuosta ovesta,
+aikomuksena horjuttaa suunnitelmiani, -
+
+291
+00:27:47,534 --> 00:27:51,330
+minun on pakko tulkita
+se kapinaan yllyttämiseksi.
+
+292
+00:27:51,852 --> 00:27:56,523
+Luuletko minun yllyttävän
+kapinaan? Minä johdan sitä!
+
+293
+00:27:56,877 --> 00:27:59,880
+Tuolla on miehiä juuri nyt,
+jotka tietävät Singletonista, -
+
+294
+00:27:59,963 --> 00:28:03,827
+kirjasta, kokista, siitä
+kaikesta. He tietävät.
+
+295
+00:28:03,911 --> 00:28:07,111
+Heillä on aikomus nähdä
+sinut hirtettynä sen takia.
+
+296
+00:28:08,482 --> 00:28:11,485
+- Kerroitko heille?
+- Billyn jälkeen.
+
+297
+00:28:11,955 --> 00:28:15,000
+En halunnut uskoa, että
+pystyt tekemään sellaista.
+
+298
+00:28:15,083 --> 00:28:17,950
+Mutta en voinut
+vakuuttua, ettetkö pystynyt.
+
+299
+00:28:18,086 --> 00:28:21,756
+Silloin tajusin,
+tämän täytyy loppua.
+
+300
+00:28:22,551 --> 00:28:24,887
+Entä nyt?
+
+301
+00:28:26,075 --> 00:28:29,467
+Johdat oikeutta, joka näkee,
+että minut on hirtettävä.
+
+302
+00:28:30,955 --> 00:28:35,960
+Ei. Menemme kotiin ja huolehdin,
+että sinä ja rouva Barlow -
+
+303
+00:28:36,228 --> 00:28:39,350
+lähdette salaa pois, ennen kuin
+kukaan huomaa teidän olevan poissa.
+
+304
+00:28:39,433 --> 00:28:41,727
+Menette Bostoniin.
+
+305
+00:28:41,962 --> 00:28:45,021
+Hyväksyt sen armahduksen,
+jonka hän tarjosi sinulle.
+
+306
+00:28:45,104 --> 00:28:49,200
+Se on viimeinen kerta, kun sinä ja
+minä näemme koskaan toisiamme.
+
+307
+00:28:51,076 --> 00:28:55,622
+Pyydän, älä tee tätä.
+
+308
+00:28:57,943 --> 00:29:00,071
+Olen pahoillani.
+
+309
+00:29:01,296 --> 00:29:03,173
+Ajattele sitä.
+
+310
+00:29:04,541 --> 00:29:06,802
+Hoidan asian heidän kanssaan.
+
+311
+00:29:20,084 --> 00:29:24,672
+En halunnut tätä.
+
+312
+00:29:26,631 --> 00:29:28,716
+Olen pahoillani.
+
+313
+00:29:35,335 --> 00:29:37,420
+Olen pahoillani.
+
+314
+00:29:40,824 --> 00:29:45,829
+Olen pahoillani.
+
+315
+00:30:03,486 --> 00:30:07,710
+Tulin antamaan uskoa tapaukseesi,
+että Urca on vielä voitettavissa.
+
+316
+00:30:19,905 --> 00:30:21,515
+Mitä vittua sinä teit hänelle?
+
+317
+00:30:21,598 --> 00:30:24,451
+Varmistin, ettei minua syytetä...
+- Lopeta.
+
+318
+00:30:26,041 --> 00:30:28,416
+Tästä ei ole ulospääsyä.
+
+319
+00:30:29,451 --> 00:30:31,787
+Usko pois, -
+
+320
+00:30:31,871 --> 00:30:34,541
+on aina ulospääsy.
+
+321
+00:30:50,558 --> 00:30:51,558
+Mikä se on?
+
+322
+00:30:51,642 --> 00:30:55,170
+Pienen miesjoukon nähtiin lähestyvän
+linnaketta lännestä tänä aamuna.
+
+323
+00:30:55,253 --> 00:30:58,053
+- Kukaan ei tunnistanut heitä.
+- Onko kotimiehistöt laskettu?
+
+324
+00:30:58,136 --> 00:31:00,232
+Kaikki. He eivät
+ole mukana tässä.
+
+325
+00:31:00,315 --> 00:31:02,639
+Olisiko tämä Englannin
+aloite vaatia saari takaisin?
+
+326
+00:31:02,722 --> 00:31:04,258
+Ilman yhtäkään laivaa?
+
+327
+00:31:04,341 --> 00:31:08,012
+Tämä on jotain muuta,
+kuin valtion hyökkäys.
+
+328
+00:31:08,096 --> 00:31:10,345
+Miten helposti kanuunat
+ovat uudelleensijoiteltavissa?
+
+329
+00:31:10,428 --> 00:31:11,533
+Mitä sillä on väliä?
+
+330
+00:31:11,616 --> 00:31:16,129
+Hän tarkoittaa että voiko kanuunat kääntää
+ympäri ja käyttää niitä meitä vastaan.
+
+331
+00:31:16,212 --> 00:31:19,616
+Toivotaan että kuka siellä onkin,
+ei ole niin hullu harkitakseen sitä.
+
+332
+00:31:19,699 --> 00:31:21,497
+Tuo ei herätä luottamusta.
+
+333
+00:31:21,580 --> 00:31:25,832
+Käsken luutnanttien pyytää palvelusta
+Colonial Dawnilta ja Meduusalta.
+
+334
+00:31:25,915 --> 00:31:30,400
+Minulla 250 miestä koottuna ja valmiina
+valtaamaan linnake muutamassa tunnissa.
+
+335
+00:31:30,483 --> 00:31:33,278
+Aamun koittaessa,
+palaan tuoliini -
+
+336
+00:31:33,362 --> 00:31:35,557
+ja kuka tämän tekikin,
+hirtetään hänen perkeleen...
+
+337
+00:31:35,640 --> 00:31:39,335
+Mitä nyt? - Nopeasti, 
+teidän kaikkien täytyy nähdä tämä.
+
+338
+00:31:45,922 --> 00:31:48,007
+Palatkaa sisälle.
+
+339
+00:31:57,182 --> 00:31:59,268
+Neiti Guthrie.
+
+340
+00:32:01,390 --> 00:32:03,892
+Meidän taitaa olla aika puhua.
+
+341
+00:32:17,309 --> 00:32:20,020
+Herra Gatesin sydän petti.
+
+342
+00:32:21,439 --> 00:32:23,566
+Onko hän kuollut?
+
+343
+00:32:24,728 --> 00:32:26,473
+Herra Logan.
+
+344
+00:32:26,556 --> 00:32:28,629
+Merkki herra
+Thompsonille Rangerille.
+
+345
+00:32:28,712 --> 00:32:30,590
+Ilmoita hänelle, että
+hän on nyt komennossa.
+
+346
+00:32:30,673 --> 00:32:32,285
+Hänen käskynsä on
+seilata pohjoiseen.
+
+347
+00:32:32,368 --> 00:32:36,133
+Kun tulitamme kohdetta, hän kääntyy
+jyrkästi paapuuriin ja tekee samoin.
+
+348
+00:32:36,216 --> 00:32:38,771
+Nosta merkit keulamastosta
+raakapuun alta.
+
+349
+00:32:38,854 --> 00:32:42,950
+Hoida ne ylös ja alas nopeasti
+ennen kuin espanjalainen näkee ne.
+
+350
+00:33:02,102 --> 00:33:05,355
+Kysymys, joka sinun
+pitää esittää itsellesi on:
+
+351
+00:33:05,439 --> 00:33:09,443
+"Mitä hyvää voin tehdä?"
+Voit sanoa tätä murhaksi.
+
+352
+00:33:09,713 --> 00:33:13,345
+Muutamat miehet saattavat jopa
+uskoa sinua, mutta riittääkö se -
+
+353
+00:33:13,428 --> 00:33:16,682
+estämään tämän pian
+tapahtuvan taistelun?
+
+354
+00:33:17,589 --> 00:33:20,301
+Koska jos se ei, taistelusta,
+jonka saatamme voittaa, -
+
+355
+00:33:20,384 --> 00:33:23,474
+tuleekin taistelu, jonka
+olemme tuomittuja häviämään.
+
+356
+00:33:23,557 --> 00:33:29,480
+Koska miehet menivät
+siihen epäilyidesi tartuttamina.
+
+357
+00:33:31,277 --> 00:33:34,947
+Joten, herra majoitusmestari, -
+
+358
+00:33:35,934 --> 00:33:39,214
+onko se todellakin heidän
+parhaan etunsa mukaista?
+
+359
+00:33:59,855 --> 00:34:02,775
+- St. Augustine.
+- Anteeksi?
+
+360
+00:34:02,859 --> 00:34:05,851
+Kun sotalaiva lähestyy, se kysyy
+viimeistä poikkeamissatamaamme.
+
+361
+00:34:05,934 --> 00:34:08,073
+St. Augustine on lähin.
+
+362
+00:34:08,213 --> 00:34:11,036
+Koska se luultavimmin on
+tullialus, meidän on todistettava, -
+
+363
+00:34:11,119 --> 00:34:13,238
+että lastinamme ei ole tupakkaa.
+
+364
+00:34:13,321 --> 00:34:16,116
+Sevilla säätelee
+kauppaa voimakkaasti.
+
+365
+00:34:18,656 --> 00:34:20,991
+Kiitos, herra Dufresne.
+
+366
+00:34:38,844 --> 00:34:41,678
+Mitä vittua sinä teet?
+
+367
+00:34:41,761 --> 00:34:43,521
+Kulutin riittävästi
+aikaa saarella, -
+
+368
+00:34:43,604 --> 00:34:46,649
+alkaen unohtamaan, että
+tuolla on koko maailma.
+
+369
+00:34:46,849 --> 00:34:50,436
+Maailma, jossa
+säännöt ovat erilaiset.
+
+370
+00:34:54,054 --> 00:34:57,525
+Menin sinne, löysin miehiä, jotka
+eivät tunteneet sääntöjä täällä, -
+
+371
+00:34:57,608 --> 00:34:59,965
+eivätkä pahemmin
+halunneet oppiakaan niitä.
+
+372
+00:35:00,048 --> 00:35:02,541
+He auttoivat minua yllättämään
+kapteeni Hornigoldin miehet, -
+
+373
+00:35:02,624 --> 00:35:04,231
+valtasimme linnakkeen, -
+
+374
+00:35:04,314 --> 00:35:07,062
+eikä yhtäkään heistä
+rasittanut ajatus:
+
+375
+00:35:07,145 --> 00:35:10,278
+"Mitä jos tämä järkyttää
+Eleanor Guthrieta?"
+
+376
+00:35:12,922 --> 00:35:16,225
+He oppivat pian säännöt,
+Charles. Kantapään kautta.
+
+377
+00:35:16,309 --> 00:35:19,058
+Luuletko, että annan tämän
+pysyä. Että Hornigold antaa.
+
+378
+00:35:19,141 --> 00:35:23,038
+Meillä on joukoittain miehiä
+rivissä sen takaisin valtaamiseksi.
+
+379
+00:35:23,121 --> 00:35:25,582
+En odottanutkaan vähempää.
+
+380
+00:35:25,881 --> 00:35:30,010
+Kauanko luulet,
+että siinä menee?
+
+381
+00:35:30,204 --> 00:35:33,624
+Saatko linnakkeen
+takaisin, ennen kuin -
+
+382
+00:35:33,710 --> 00:35:38,131
+upotan uuden aluksen
+lahdella? Kolme lisää.
+
+383
+00:35:38,821 --> 00:35:41,573
+Ne kaikki. Kuka tietää, -
+
+384
+00:35:41,917 --> 00:35:45,604
+jos mieheni odottelevat tarpeeksi kauan,
+saatamme päättää upottaa myös Walrusin, -
+
+385
+00:35:45,687 --> 00:35:49,576
+kun se palaa espanjalaisen
+kultasaaliisi kanssa, -
+
+386
+00:35:49,659 --> 00:35:53,336
+ihan vain ilkeyttämme.
+- Sitä tämä siis on.
+
+387
+00:35:53,419 --> 00:35:55,960
+Olet vihainen minulle ja
+tuhoat kaiken rakentamani.
+
+388
+00:35:56,043 --> 00:35:59,379
+- En haluaisi tuhota mitään.
+- Mitä haluat?
+
+389
+00:36:00,317 --> 00:36:03,548
+Hornigold hallinnoi linnaketta.
+Linnake hallinnoi lahtea.
+
+390
+00:36:03,631 --> 00:36:05,596
+Lahti hallinnoi kaupankäyntiä.
+
+391
+00:36:05,679 --> 00:36:11,309
+Sen vuoksi Hornigold oli kumppanisi.
+Nyt minä hallinnoin linnaketta, -
+
+392
+00:36:12,619 --> 00:36:14,955
+joten olen kumppanisi.
+
+393
+00:36:16,121 --> 00:36:20,041
+- Pelleilet.
+- Asuin täällä melko pitkään.
+
+394
+00:36:20,125 --> 00:36:23,545
+Se ei toiminut kovin
+hyvin. Nyt haluan osuuteni.
+
+395
+00:36:23,781 --> 00:36:26,742
+Olet lopullisesti
+menettänyt järkesi.
+
+396
+00:36:27,508 --> 00:36:30,211
+Muistan, kun
+ensikerran näin sinut.
+
+397
+00:36:30,294 --> 00:36:32,137
+Olit kolmentoista.
+
+398
+00:36:32,662 --> 00:36:36,625
+Hiippailit rantaan uhmaten
+herra Scottin sääntöjä.
+
+399
+00:36:36,842 --> 00:36:42,097
+Näytitkin ikäiseltäsi tytöltä.
+
+400
+00:36:42,731 --> 00:36:48,695
+Kävelit vain ylös ja alas leirien välillä
+kuin olisit omistanut paikan. Pelottomana.
+
+401
+00:36:49,267 --> 00:36:52,658
+Sitten huomasit minun katselevan
+sinua, etkä kääntänyt katsettasi pois.
+
+402
+00:36:52,741 --> 00:36:56,787
+Et mennyt piiloon.
+Katsoit vain minua -
+
+403
+00:36:57,192 --> 00:37:01,989
+hymynkare suupielessäsi,
+joka näytti, ettet pelännyt minua.
+
+404
+00:37:02,141 --> 00:37:05,099
+Mistä vitusta oikein puhut?
+
+405
+00:37:05,640 --> 00:37:07,355
+Tunnen sinut.
+
+406
+00:37:07,522 --> 00:37:10,191
+Paremmin kuin isäsi,
+paremmin kuin Scott.
+
+407
+00:37:10,305 --> 00:37:12,246
+Ehkä paremmin kuin kukaan.
+
+408
+00:37:12,329 --> 00:37:14,795
+Ei sinua kiinnosta
+raha tai kunnioitus.
+
+409
+00:37:14,878 --> 00:37:17,411
+Tai tämä paikka,
+jonka olet rakentanut.
+
+410
+00:37:17,831 --> 00:37:22,085
+Luulen, että olet väsynyt isäsi
+käskyihin, mitä pitää tehdä.
+
+411
+00:37:23,973 --> 00:37:27,685
+Tarjoan sinulle
+elämää ilman sitä.
+
+412
+00:37:28,400 --> 00:37:31,408
+Minun kanssani linnakkeessa.
+Teet, kuten haluat.
+
+413
+00:37:31,763 --> 00:37:36,560
+Niin kauan kuin se ei aiheuta
+minulle ongelmia, et kuule valituksia.
+
+414
+00:37:37,998 --> 00:37:40,584
+Tiedät, etten voi
+vastata kieltävästi.
+
+415
+00:37:41,797 --> 00:37:44,508
+Ennen kuin vastaan, tiedä tämä.
+
+416
+00:37:45,176 --> 00:37:48,701
+Jonkin ajan kuluttua linnakkeessa
+olosi muuttuu mukavaksi.
+
+417
+00:37:48,784 --> 00:37:52,412
+Sinä päivänä aion
+työntää sinut ja miehesi -
+
+418
+00:37:52,565 --> 00:37:55,276
+suoraan tuohon helvetin mereen.
+
+419
+00:37:57,380 --> 00:38:00,180
+Luoja, miten olen
+kaivannut tuota katsetta.
+
+420
+00:38:06,732 --> 00:38:08,817
+Ben.
+
+421
+00:38:12,696 --> 00:38:14,228
+Mitä hän sanoi?
+
+422
+00:38:14,311 --> 00:38:17,112
+Hän haluaa paikkasi
+liittoutumasta. Olla kumppanimme.
+
+423
+00:38:17,195 --> 00:38:20,251
+Tuolla on 300 miestä, jotka
+mielellään estävät häntä.
+
+424
+00:38:20,334 --> 00:38:22,352
+- Et voi tehdä sitä.
+- Tulet näkemään.
+
+425
+00:38:22,435 --> 00:38:24,776
+Kerroin hänelle tunneleista.
+
+426
+00:38:25,163 --> 00:38:27,917
+Tunneleista, joita käyttäisit
+yllätyshyökkäyksessä linnakkeeseen.
+
+427
+00:38:28,000 --> 00:38:30,128
+- Kerroin hänelle.
+- Jeesus.
+
+428
+00:38:30,212 --> 00:38:33,607
+Sanoit että tunteet on
+pidettävä erossa päätöksistä, -
+
+429
+00:38:33,690 --> 00:38:35,757
+toimiessaan kaikkien parhaaksi.
+
+430
+00:38:35,916 --> 00:38:40,420
+- Uskoakseni toimin niin.
+- Tämä ei ole vielä ohi.
+
+431
+00:38:45,370 --> 00:38:47,778
+Kapteeni, tervetuloa takaisin.
+
+432
+00:38:47,867 --> 00:38:49,934
+Kuulemani mukaan
+onnittelut ovat paikallaan.
+
+433
+00:38:50,017 --> 00:38:52,895
+Linnakkeen hallitsija.
+Suoranaista neroutta.
+
+434
+00:38:52,979 --> 00:38:57,108
+Jollain tavalla, Jack, tähän
+piti tulla. Eikö sinustakin?
+
+435
+00:38:57,298 --> 00:39:00,801
+- Tulla mihin?
+- Päätökseeni, elätkö vai kuolet.
+
+436
+00:39:01,017 --> 00:39:05,022
+- Kapteeni, en tiedä, mitä olet kuullut...
+- Hamund raahaa sinut sängystäsi -
+
+437
+00:39:05,105 --> 00:39:10,986
+alas hylyille etsimään
+piilottamiasi varastettuja helmiä.
+
+438
+00:39:11,695 --> 00:39:15,490
+Yllättäen vain sinä ja koirasi
+palaavat sieltä elävänä.
+
+439
+00:39:19,355 --> 00:39:23,776
+Melkoinen hetki. Jack
+Rackham ei saa sanaa suustaan.
+
+440
+00:39:24,934 --> 00:39:27,086
+Jos minulla olisi nyt
+viisas majoitusmestari, -
+
+441
+00:39:27,169 --> 00:39:29,889
+hän sanoisi, ettei
+tekoasi voi katsoa hyvällä.
+
+442
+00:39:29,972 --> 00:39:35,561
+Hän sanoisi, että rikkomus vaatii
+esimerkin tekemistä teistä kahdesta.
+
+443
+00:39:36,098 --> 00:39:38,308
+Mitä verisemmin, sen parempi.
+
+444
+00:39:41,284 --> 00:39:47,123
+Tänään kuitenkin olen vähemmän
+huolissani käytännöistä kuin yleensä.
+
+445
+00:39:48,027 --> 00:39:52,448
+Niin kauan kuin hallitsen
+linnaketta, sillä ei ole merkitystä.
+
+446
+00:39:55,704 --> 00:39:58,206
+Kaduilla tiedetään teostasi.
+
+447
+00:39:58,439 --> 00:40:02,527
+Siellä tiedetään, että
+petit veljesi naisen vuoksi.
+
+448
+00:40:03,197 --> 00:40:09,162
+Tuo tarina leviää, etkä koskaan
+enää purjehdi mustan lipun alla.
+
+449
+00:40:09,944 --> 00:40:15,783
+Istut tässä porttolassa ja
+mätänet täällä huorinesi.
+
+450
+00:40:17,092 --> 00:40:20,612
+Jotenkin kuvittelisin, että se
+on pahempaa kuin kuolema.
+
+451
+00:40:21,649 --> 00:40:25,361
+Uskollisuuden
+pitäisi merkitä jotain.
+
+452
+00:40:26,075 --> 00:40:28,161
+Minulle se ainakin merkitsee.
+
+453
+00:40:33,638 --> 00:40:36,224
+Olet tehnyt paikasta kauniin.
+
+454
+00:40:57,297 --> 00:40:59,382
+Sieltä se tulee.
+
+455
+00:41:09,980 --> 00:41:12,942
+Cazadora. Marco
+Fernandez, kapteeni.
+
+456
+00:41:13,851 --> 00:41:17,939
+Cazadora. Marco
+Fernandez, kapteeni!
+
+457
+00:41:23,128 --> 00:41:25,923
+St. Augustine. Tupakkakauppaa.
+
+458
+00:41:32,599 --> 00:41:34,253
+Ellen ole väärässä,
+sanoit että nimeäisi -
+
+459
+00:41:34,336 --> 00:41:36,350
+meidät miksi tahansa,
+paitsi tupakkakauppiaiksi.
+
+460
+00:41:36,433 --> 00:41:38,587
+Niin sanoin.
+
+461
+00:41:38,670 --> 00:41:41,320
+Hän yrittää todistaa sillä,
+ettei tuo alus ole vartiostosta.
+
+462
+00:41:41,403 --> 00:41:44,669
+Että se on täällä samasta
+syystä kuin mekin. - Urcan vuoksi.
+
+463
+00:41:44,752 --> 00:41:46,894
+Tuon aluksen antaessa
+meille luvan jatkaa, -
+
+464
+00:41:46,977 --> 00:41:49,136
+hän on onnistunut elvyttämään
+miehistön kullanhimon, -
+
+465
+00:41:49,219 --> 00:41:52,086
+sekä heidän uskonsa
+hänen arviointikykyynsä.
+
+466
+00:42:20,247 --> 00:42:23,458
+Kaikki miehet
+asemiin, ja hiljaa kiitos.
+
+467
+00:42:23,671 --> 00:42:27,382
+275 metrissä avaamme tulen.
+
+468
+00:42:27,465 --> 00:42:30,365
+Kerta toisensa jälkeen,
+hän pelaa elämillämme.
+
+469
+00:42:30,488 --> 00:42:33,496
+Silloin, kun hän ei ota
+henkeämme kylmästi itse.
+
+470
+00:42:33,840 --> 00:42:36,740
+Jälleen kerran hänen
+vaikutusvaltansa kasvaa.
+
+471
+00:42:36,933 --> 00:42:38,674
+Emmekä voi syyttää häntä nyt.
+
+472
+00:42:38,757 --> 00:42:42,969
+Ei, se vain näyttää siltä.
+
+473
+00:42:54,320 --> 00:42:58,544
+Kääntäkää meidät hitaasti. Heidän
+täytyy luulla meidän ajelehtivan.
+
+474
+00:43:15,304 --> 00:43:18,599
+- Etäisyys?
+- 100 metriä, kapteeni.
+
+475
+00:43:23,586 --> 00:43:25,672
+- Avatkaa.
+- Avatkaa.
+
+476
+00:43:37,004 --> 00:43:38,533
+Oikealle muutaman asteen verran.
+
+477
+00:43:38,616 --> 00:43:41,828
+Meillä on vain yksi mahdollisuus.
+Kuolemme, jos ammumme ohitse.
+
+478
+00:43:41,911 --> 00:43:44,488
+Tyhjentäkää etukulma.
+
+479
+00:43:44,943 --> 00:43:48,124
+- Etäisyys?
+- Lähestymme 195 metriä.
+
+480
+00:43:48,208 --> 00:43:51,053
+Kaikki valmiina,
+ampukaa merkistäni.
+
+481
+00:43:52,884 --> 00:43:54,969
+Rauhassa.
+
+482
+00:43:58,986 --> 00:44:00,816
+Melkein siinä.
+
+483
+00:44:02,698 --> 00:44:04,825
+Kapteeni Flint.
+
+484
+00:44:06,499 --> 00:44:09,877
+Majoitusmestarina syytän sinua -
+
+485
+00:44:09,961 --> 00:44:12,369
+tyrannimaisista rikoksista
+miehistöäsi vastaan.
+
+486
+00:44:12,452 --> 00:44:14,425
+Kaikki, ampukaa!
+
+487
+00:44:14,508 --> 00:44:16,915
+Unohtakaa tuo käsky!
+
+488
+00:44:21,462 --> 00:44:24,678
+Tehtäväsi tässä miehistössä
+ovat tulleet päätökseensä.
+
+489
+00:44:24,761 --> 00:44:26,888
+Istu.
+
+490
+00:44:27,847 --> 00:44:31,433
+Alkaen herra Singletonin, -
+
+491
+00:44:31,913 --> 00:44:34,749
+Billy Bonesin ja herra
+Gatesin murhista.
+
+492
+00:44:34,916 --> 00:44:37,586
+Mitä toivot saavuttavasi
+tekemällä tämän?
+
+493
+00:44:37,936 --> 00:44:40,647
+Sinun kohdallasi,
+herra Silver, oikeutta.
+
+494
+00:44:41,104 --> 00:44:43,983
+Dufresnen paljastaessa Flintin
+valheet kokonaisuudessaan, -
+
+495
+00:44:44,066 --> 00:44:47,854
+- haluaa miehistö vastauksia myös sinulta.
+- Kuten selitin herra Dufresnelle, -
+
+496
+00:44:47,937 --> 00:44:51,361
+on kyseessä hänen sanansa Flintin
+sanaa vastaan. Miksi kukaan uskoisi häntä?
+
+497
+00:44:51,444 --> 00:44:53,821
+Pidän kädessäni kirjettä, -
+
+498
+00:44:54,107 --> 00:44:57,819
+jossa herra Gates
+tunnustaa tietonsa -
+
+499
+00:44:57,903 --> 00:45:00,812
+ja osallisuutensa kapteenin
+lukemattomiin rikoksiin.
+
+500
+00:45:00,895 --> 00:45:03,351
+Kadotamme heidät,
+meillä ei ole aikaa tähän.
+
+501
+00:45:03,434 --> 00:45:07,855
+Mukaan lukien tietonsa kapteenin
+jatkuvasta petturuudesta, -
+
+502
+00:45:08,034 --> 00:45:12,122
+aina hänen
+suunnitelmaansa varastaa -
+
+503
+00:45:12,216 --> 00:45:15,594
+osa aarresaattueen
+tuotosta itselleen.
+
+504
+00:45:15,900 --> 00:45:18,152
+Annoin teille käskyn! Tulta!
+
+505
+00:45:21,068 --> 00:45:23,153
+Tulta!
+
+506
+00:45:31,896 --> 00:45:36,859
+- Tämä on herra Gatesin käsialaa.
+- Mihin olet menossa?
+
+507
+00:46:00,221 --> 00:46:03,850
+Oikeutta, varas. Tällä
+kertaa et voi paeta sitä.
+
+508
+00:46:08,701 --> 00:46:10,787
+Ole hyvä.
+
+509
+00:46:11,138 --> 00:46:14,516
+Nostakaa purjeet.
+Menemme kotiin.
+
+510
+00:46:23,830 --> 00:46:27,167
+- Kuka ampuu?
+- Anteeksi.
+
+511
+00:46:28,147 --> 00:46:32,610
+- Niin täytyi tehdä.
+- Nyt ei voi paeta.
+
+512
+00:46:37,149 --> 00:46:42,154
+Ranger tulee etäisyydelle!
+Espanjalaisilla on miehiä takilalla.
+
+513
+00:46:42,944 --> 00:46:45,611
+Tulta, herra Dufresne.
+Kaikella voimalla.
+
+514
+00:46:45,818 --> 00:46:47,904
+Älä heitä tätä hetkeä hukkaan.
+
+515
+00:47:03,960 --> 00:47:06,713
+Kaikki kanuunat, avatkaa tuli!
+
+516
+00:47:07,260 --> 00:47:09,345
+Avatkaa tuli!
+
+517
+00:47:21,417 --> 00:47:24,045
+Ladatkaa!
+
+518
+00:47:26,449 --> 00:47:29,369
+Tämä kanuuna valmiina!
+
+519
+00:47:29,801 --> 00:47:32,888
+- Tulta!
+- Ranger avasi tulen!
+
+520
+00:47:32,972 --> 00:47:35,057
+Uudestaan!
+
+521
+00:47:45,715 --> 00:47:47,801
+Tulta!
+
+522
+00:47:52,472 --> 00:47:54,849
+Se kääntyy!
+
+523
+00:47:56,810 --> 00:47:58,895
+Tulta!
+
+524
+00:48:07,112 --> 00:48:09,197
+Tulta!
+
+525
+00:48:12,283 --> 00:48:14,369
+Alemmaksi!
+
+526
+00:48:17,622 --> 00:48:20,625
+Asemiinne!
+
+527
+00:48:51,990 --> 00:48:54,075
+Nostakaa purjeet!
+
+528
+00:49:14,985 --> 00:49:17,321
+Tohtori!
+
+529
+00:50:36,464 --> 00:50:40,179
+Ei kenenkään maa.
+
+530
+00:50:40,262 --> 00:50:42,262
+Oli aika jolloin
+pysähtyminen tälle sillalle -
+
+531
+00:50:42,345 --> 00:50:46,633
+olisi ollut ajattelematonta sinulta.
+Kuinka tilanteet muuttuvatkaan.
+
+532
+00:50:47,151 --> 00:50:49,236
+Huomaan sen.
+
+533
+00:50:53,403 --> 00:50:57,094
+Tiedän, ettemme ole puhuneet, mutta
+haluan sinun tietävän kuinka pahoillani...
+
+534
+00:50:57,177 --> 00:50:59,117
+Älä.
+
+535
+00:51:01,119 --> 00:51:04,205
+Sinulla ei ole
+syytä olla pahoillasi.
+
+536
+00:51:04,372 --> 00:51:07,302
+Seisoin sinun ja
+unelmiesi välissä.
+
+537
+00:51:07,386 --> 00:51:11,734
+- Teit, mitä sinun piti tehdä.
+- Sanoit tämän paikan olevan vain hiekkaa.
+
+538
+00:51:11,817 --> 00:51:13,902
+Hiekallakin on puolensa.
+
+539
+00:51:14,145 --> 00:51:17,793
+Hiekalla mikään ei ole
+paikoillaan. Mikään ei ole pysyvää.
+
+540
+00:51:18,091 --> 00:51:23,304
+Kohtalo muuttui nopeasti. Eilen kapteeni
+Hornigold oli kiinteästi linnakkeessa -
+
+541
+00:51:23,388 --> 00:51:26,474
+ja kapteeni Vane
+oli kerjäläinen.
+
+542
+00:51:26,631 --> 00:51:31,720
+Katso heitä tänään. Eilen
+olin huora ilman merkitystä.
+
+543
+00:51:31,860 --> 00:51:35,613
+Helposti hävitettävä
+ja unohdettava.
+
+544
+00:51:36,196 --> 00:51:40,742
+Tänään olen rouva,
+jolla on tuloja ja liittolaisia.
+
+545
+00:51:40,909 --> 00:51:45,330
+Olen myös nainen, joka on
+oppinut tärkeimmän läksyn.
+
+546
+00:51:45,414 --> 00:51:48,870
+Älä koskaan anna kenenkään
+seistä tavoitteidesi tiellä.
+
+547
+00:51:50,224 --> 00:51:52,358
+Kiitos, että opetit sen minulle.
+
+548
+00:51:55,783 --> 00:51:57,952
+He ovat valmiina, rouva.
+
+549
+00:51:58,928 --> 00:52:02,557
+Onnea pyrkimyksiesi
+käynnistämisestä.
+
+550
+00:52:03,014 --> 00:52:06,142
+Tänään sinulla on
+kaikki haluamasi.
+
+551
+00:52:07,857 --> 00:52:11,068
+Voimme vain arvata, mitä
+huominen tuo tullessaan.
+
+552
+00:53:36,191 --> 00:53:39,319
+Taitaa mennä hetki,
+ennen kuin se seilaa jälleen.
+
+553
+00:53:40,874 --> 00:53:46,004
+Sillä välin olemme syytettynä
+koko sotkun aiheuttamisesta.
+
+554
+00:53:55,585 --> 00:53:57,712
+Miksi olen yhä elossa?
+
+555
+00:53:58,730 --> 00:54:00,857
+Mikset tappanut minua?
+
+556
+00:54:06,610 --> 00:54:08,695
+Nosta hänet ylös.
+
+557
+00:54:34,996 --> 00:54:38,416
+Kerroin olevani varma
+tiedoistani Urcan suhteen.
+
+558
+00:54:38,670 --> 00:54:41,806
+Valitettavasti emme
+osanneet ottaa säätä huomioon.
+
+559
+00:54:59,430 --> 00:55:04,477
+Urca de Lima haaksirikkoutui
+yöllä myrskyn romuttamana.
+
